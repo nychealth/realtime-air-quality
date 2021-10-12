@@ -11,11 +11,19 @@ The data are hourly PM2.5 measurements, in micrograms per cubic meter of air.
 ### Monitor locations
 | Location            | Latitude  | Longitude  |
 |---------------------|-----------|------------|
-| Broadway/35th St    | 40.75069  | -73.98783  |
-| Queens College      | 40.737107 | -73.821556 |
-| Cross Bronx Expy    | 40.845167 | -73.906143 |
-| Queensboro Bridge   | 40.761234 | -73.963886 |
-| Williamsburg Bridge | 40.718073 | -73.986059 |
+| Broadway/35th St    |40.75069	  |-73.98783   |
+| Cross Bronx Expy  	|40.845167	|-73.906143  |
+| Hale Bus Depot	    |40.821311	|-73.936315  |
+| Hunts Point	        |40.819009	|-73.886198  |
+| Manhattan Bridge	  |40.71651	  |-73.997004  |
+| Midtown-DOT	        |40.755082	|-73.990415  |
+| Queens College	    |40.737107	|-73.821556  |
+| Queensboro Bridge	  |40.761234	|-73.963886  |
+| Williamsburg	      |40.710614	|-73.95938   |
+| Williamsburg Bridge	|40.718073	|-73.986059  |
+
+Not all monitoring locations will necessarily be utilized at the same time due to operational constraints.
+
 
 ### Update frequency
 Data are pushed to this repository every hour, and cover the last five days. However, each hourly update might not inclue new data
