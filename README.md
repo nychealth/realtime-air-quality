@@ -12,6 +12,8 @@ PM2.5 can either be directly emitted or formed in the atmosphere from other poll
 
 Measurements included are from monitors located along high traffic corridors or neighborhood locations to assess PM2.5 concentrations in the immediate vicinity. The results shown may not be indicative of overall PM2.5 concentrations in the neighborhood. 
 
+Times shown (starttime) are in eastern standard time and do not change based on daylight savings time. The measurements are an average of all the PM2.5 measurements during the given hour. For example, all measurements collected between 9:00 AM and 10:00 AM are averaged and stored as 9:00 AM.
+
 ### Monitor locations
 | Location            | Latitude  | Longitude  |
 |---------------------|-----------|------------|
