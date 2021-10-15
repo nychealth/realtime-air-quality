@@ -2,7 +2,7 @@
 
 This repository contains near-real-time air quality from monitors in NYC. [Click here to view these data in our webpage. Add link to RTAQ webpage](https://www.google.com).
 
-{Replace this with a screenshot of the application or output.}
+![image](https://user-images.githubusercontent.com/55593359/137518896-bbee3dfe-6f55-4e45-8182-e32bd582f6cf.png)
 
 ## About the data 
 ### Measurements (RT_flat.csv)
@@ -32,7 +32,7 @@ Not all monitoring locations will necessarily be utilized at the same time due t
 
 
 ### Update frequency
-Data are pushed to this repository every hour, and cover the last five days. However, each hourly update might not inclue new data
+Data are pushed to this repository every hour, and cover the last five days. However, each hourly update might not include new data.
 
 ## About the New York City Community Air Survey
 The [NYC Community Air Survey](https://nyccas.cityofnewyork.us/nyccas2021v9/report/2) is the largest ongoing urban air monitoring program of any U.S. City.  NYCCAS, which began collecting data in December 2008, is a collaboration between the Health Department and Queens College of the City University of New York and provides data to:
