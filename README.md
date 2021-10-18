@@ -14,6 +14,8 @@ Measurements included are from monitors located along high traffic corridors or 
 
 Times shown (starttime) are in eastern standard time and do not change based on daylight savings time. The measurements are an average of all the PM<sub>2.5</sub> measurements during the given hour. For example, all measurements collected between 9:00 AM and 10:00 AM are averaged and stored as 9:00 AM.
 
+All data are preliminary and subject to change.
+
 ### Monitor locations
 | Location            | Latitude  | Longitude  |
 |---------------------|-----------|------------|
