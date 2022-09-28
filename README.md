@@ -8,11 +8,11 @@ This repository contains near-real-time air quality from monitors in NYC. You ca
 ### Measurements (RT_flat.csv)
 The data are hourly PM<sub>2.5</sub> measurements, in micrograms per cubic meter of air. Fine particles (PM<sub>2.5</sub>) are tiny airborne solid and liquid particles less than 2.5 microns in diameter. PM<sub>2.5</sub> is the most harmful urban air pollutant. It is small enough to penetrate deep into the lungs and enter the bloodstream, which can worsen lung and heart disease and lead to hospital admissions and premature deaths. 
 
-PM<sub>2.5</sub> can either be directly emitted or formed in the atmosphere from other pollutants. Fuel combustion in vehicles, boilers in buildings, power plants, construction equipment, marine vessels and commercial cooking are all common sources of PM<sub>2.5</sub>. Up to 40% of the PM<sub>2.5</sub> in New York City's air comes from sources in areas upwind from the city, such as coal-burning power plants in the Midwest. 
+PM<sub>2.5</sub> can either be directly emitted or formed in the atmosphere from other pollutants. Fuel combustion in vehicles, boilers in buildings, power plants, construction equipment, marine vessels, and commercial cooking are all common sources of PM<sub>2.5</sub>. Up to 40% of the PM<sub>2.5</sub> in New York City's air comes from sources in areas upwind of the city, such as coal-burning power plants in the Midwest. 
 
 Measurements included are from monitors located along high-traffic corridors or neighborhood locations to assess PM<sub>2.5</sub> concentrations in the immediate vicinity. The results shown may not be indicative of overall PM<sub>2.5</sub> concentrations in the neighborhood. 
 
-Times shown (starttime) are in eastern standard time and do not change based on daylight savings time. The measurements are an average of all the PM<sub>2.5</sub> measurements during the given hour. For example, all measurements collected between 9:00 AM and 10:00 AM are averaged and stored as 9:00 AM.
+Times have shown (start time) are in eastern standard time and do not change based on daylight savings time. The measurements are an average of all the PM<sub>2.5</sub> measurements during the given hour. For example, all measurements collected between 9:00 AM and 10:00 AM are averaged and stored as 9:00 AM.
 
 All data are preliminary and subject to change.
 
