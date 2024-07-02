@@ -1,5 +1,9 @@
 # Real-time Air Quality in New York City.
 
+**Update**: [The Realtime Air Quality webpage is now located here](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/realtime-air-quality/). This repository is no longer used. At the page, you can download hourly data going back to October 2019. 
+
+---
+
 This repository contains near-real-time air quality from monitors in NYC. You can view these data in context on the [Environment and Health Data Portal's Air Quality Hub, here](https://a816-dohbesp.nyc.gov/IndicatorPublic/AQHub/realtime.html).
 
 ![image](https://user-images.githubusercontent.com/55593359/137518896-bbee3dfe-6f55-4e45-8182-e32bd582f6cf.png)
